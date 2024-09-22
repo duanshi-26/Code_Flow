@@ -1,4 +1,4 @@
-# Java Code Visualizer
+# Code Flow
 
 The **Java Code Visualizer** is a web-based tool that allows users to input Java code and step through its execution visually. It helps users understand how Java code works by showing variable states, output, and the current line of execution in each step. This tool is especially useful for students learning Java or anyone looking to debug Java programs interactively.
 
